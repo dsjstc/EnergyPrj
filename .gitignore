@@ -2,3 +2,7 @@
 household_power_consumption\.txt
 
 \.ipynb_checkpoints/
+
+alldata\.pickle
+
+*.pickle
