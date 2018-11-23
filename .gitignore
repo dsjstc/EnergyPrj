@@ -6,3 +6,5 @@ household_power_consumption\.txt
 alldata\.pickle
 
 *.pickle
+
+LFPO\.txt
