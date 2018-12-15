@@ -2,7 +2,7 @@
 
 *.pickle
 *.mat
+*.xlsx
 
 LFPO\.txt
 household_power_consumption\.txt
-
